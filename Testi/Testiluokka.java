@@ -5,4 +5,5 @@ public class Testiluokka {
     public String mokki2;
 
     public String alue;
+    public String asiakas;
 }
