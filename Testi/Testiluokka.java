@@ -6,4 +6,6 @@ public class Testiluokka {
 
     public String alue;
     public String asiakas;
+    public String nimi;
+
 }
