@@ -3,4 +3,6 @@ public class Testiluokka {
 
     public int numero;
     public String mokki2;
+
+    public String alue;
 }
